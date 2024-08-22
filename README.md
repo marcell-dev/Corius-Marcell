@@ -1,3 +1,5 @@
+YAKINDA - SOON
+
 🇹🇷 - Bu bot Marcell.xd - Corius ortaklığıyla yapılmış, teşekkürler.
 
 Bot V11, Public sunucular için tasarlanmıştır, Türk botçuların kullandığı sistemlerin İngilizce versiyonudur, komutları Türkçe'ye çevirebilirsiniz, bağlantıda herhangi bir sorun olmayacaktır,
